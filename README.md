@@ -1,15 +1,15 @@
-### Writing paper materials
+### 1. Writing paper materials
 
 - 论文写作ppt，来源知乎，[ppt](Writing-tips.ppt)
 
-### How to write a good systems paper or thesis (Gernot Heiser):
+### 2. How to write a good systems paper or thesis (Gernot Heiser):
 
 - https://www.cse.unsw.edu.au/~gernot/talk-writing.pdf
 
 - https://www.cse.unsw.edu.au/~gernot/style-guide.html
 
 
-### The elements of styles      
+### 3. The elements of styles      
 
 - http://www.jlakes.org/ch/web/The-elements-of-style.pdf
 
