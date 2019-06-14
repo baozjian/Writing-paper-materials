@@ -28,3 +28,5 @@
 - [Creating Effective Poster Presentations | An Effective Poster](https://projects.ncsu.edu/project/posters/index.html)
 
 - 伯克利 [How to Have a Bad Career In Research/Academi](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer3.pdf)
+
+- 知乎如何制作高质量poster https://zhuanlan.zhihu.com/p/37398032
